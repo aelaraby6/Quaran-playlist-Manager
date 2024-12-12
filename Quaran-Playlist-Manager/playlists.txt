@@ -1,0 +1,22 @@
+Playlist: Reader1
+----------------------------------
+Audio Name: Surah-El-Falaq
+Audio Path: media/Surah-El-Falaq.mp3
+Audio Type: 1
+----------------------------------
+Audio Name: Surah-El-Nas
+Audio Path: media/Surah-El-Nas.mp3
+Audio Type: 1
+----------------------------------
+==================================
+Playlist: Reader2
+----------------------------------
+Audio Name: sound1
+Audio Path: media/sound1.mp3
+Audio Type: 2
+----------------------------------
+Audio Name: sound2
+Audio Path: media/sound2.mp3
+Audio Type: 2
+----------------------------------
+==================================

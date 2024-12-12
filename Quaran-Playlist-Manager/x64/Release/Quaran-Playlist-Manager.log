@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Audio-Playlist-Manager.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Audio.cpp
+  DoubleLinkedList.cpp
+  main.cpp
+  Playlist.cpp
+  PlaylistManager.cpp
+  Generating code
+  299 of 299 functions (100.0%) were compiled.
+    216 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Quaran-Playlist-Manager.vcxproj -> D:\college\second year\data structures\Quaran-Playlist-Manager\Quaran-Playlist-Manager\x64\Release\Quaran-Playlist-Manager.exe
